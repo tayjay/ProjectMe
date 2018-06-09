@@ -1,0 +1,16 @@
+[
+{
+  "modid": "projectme",
+  "name": "Project Me",
+  "description": "AI at its finest.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["tayjay"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
